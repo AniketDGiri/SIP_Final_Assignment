@@ -40,5 +40,3 @@ Below are the names of the Contributors:
 
 Please make sure to update tests as appropriate.
 
-## Link to GIT-HUB REPOSITORY:
-[MIT](https://choosealicense.com/licenses/mit/)
